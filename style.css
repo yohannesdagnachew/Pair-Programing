@@ -174,7 +174,7 @@ a {
     display: grid;
     grid-template-rows: 20% 38% 7% 17% 8%;
     align-content: center;
-    height: fit-content;
+    height: 62.5rem;
   }
 
   .react-work-desktop {
@@ -253,7 +253,7 @@ a {
   }
 
   .profesional-react1 {
-    height: fit-content;
+    height: 26.875rem;
     display: flex;
     flex-direction: column;
     background-image: url(image/Placeholder.svg);
