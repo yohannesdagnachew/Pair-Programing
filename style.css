@@ -88,6 +88,7 @@ a {
   .email-icon {
     display: none;
   }
+
   .nav-menu.active {
     left: 0.625rem;
   }
@@ -226,7 +227,7 @@ a {
     color: #091e42;
     width: 327px;
     height: 147px;
-    left: 0px;
+    left: 0;
     top: 48px;
   }
 
@@ -881,7 +882,7 @@ a {
   .line-image2 {
     width: 72.25rem;
     margin-left: 5.3125rem;
-    height: 0.5625rem;
+    height: 9px;
     color: #505f79;
     margin-bottom: 7.5rem;
   }
