@@ -113,7 +113,6 @@ a {
   .hamburger.active .bar:nth-child(3) {
     transform: translateY(-8px) rotate(-45deg);
   }
-  /*3333333333333333333333333  */
 
   h2 {
     color: black;
@@ -187,7 +186,6 @@ a {
     margin-left: 4.0625rem;
     color: white;
     background-color: #ff6b00;
-    border-radius: 0;
     border: none;
   }
 
@@ -196,7 +194,6 @@ a {
     width: 20.4375rem;
     left: 1.5rem;
     top: 7.5rem;
-    border-radius: 0;
     margin-top: 7.5rem;
     margin-left: 4.0625rem;
     margin-right: 1.5rem;
@@ -207,7 +204,6 @@ a {
     width: 20.4375rem;
     left: 1.5rem;
     top: 0;
-    border-radius: 0;
     margin-top: 7.5rem;
     margin-left: 4.0625rem;
     margin-right: 1.5rem;
@@ -271,7 +267,6 @@ a {
     width: 18.4375rem;
     left: 1rem;
     top: 0.5rem;
-    border-radius: nullpx;
     margin-top: 5.25rem;
   }
 
@@ -279,7 +274,6 @@ a {
     margin-top: 0.9375rem;
     margin-left: 2.4375rem;
     padding-right: 1.125rem;
-    border-radius: nullpx;
     color: white;
     font-family: “Inter”, "Lucida Sans", sans-serif;
     font-weight: 400;
@@ -949,7 +943,8 @@ a {
     background-color: #262626;
   }
 
-  /* Form */
+  /* Form section */
+
   form {
     background-image: url("image/formimagedesctop.png");
     background-repeat: no-repeat;
